@@ -51,6 +51,7 @@ When creating your copy, ensure it is on your own GitHub user account and that i
 
 If you have not yet done so, create an account on Netlify. Deploy your copy of this project and use your GitHub username as the subdomain of the published site. For example, if your GitHub username is `stew-dent`, then your site should be publically visible at [`stew-dent.netlify.app`](https://stew-dent.netlify.app). (If that URL is not available, use something close/similar.)
 
+- [x] Completed: https://d3v0psdan.netlify.app/
 
 ## **(1 Mark)** - Update Dependencies
 

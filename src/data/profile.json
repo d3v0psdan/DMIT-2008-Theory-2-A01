@@ -1,95 +1,96 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Daniel Berg - Full-Stack Developer",
+    "description": "I'm a full-stack developer based in Edmonton, Canada, building reliable web apps end to end. My primary tools of choice include: Laravel, PHP, Inertia, React, TypeScript, and Tailwind.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
       "frameworkName": "React",
       "frameworkUrl": "https://react.dev/",
-      "author": "AI under the guidance of DanG-IT Professional"
+      "author": "AI under the guidance of Daniel Berg"
     }
   },
   "seo": {
-    "personName": "Gianmarco",
-    "jobTitle": "Freelance Frontend Developer",
-    "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "personName": "Daniel Berg",
+    "jobTitle": "Full-Stack Developer",
+    "worksFor": "Berg IT Solutions",
+    "location": "Edmonton",
+    "countryCode": "CA",
+    "nationality": "Canadian",
+    "publisherName": "d3v0psdan",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://www.linkedin.com/in/daniel-berg-/",
+      "https://github.com/d3v0psdan",
+      "https://x.com/Daniel085370561"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Daniel Berg",
+    "summary": "a full-stack developer building reliable web apps end to end",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/d3v0psdan"
       },
       {
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/daniel-berg-/"
       },
       {
-        "ariaLabel": "dribble profile",
-        "screenReaderLabel": "Dribble Profile",
-        "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
+        "ariaLabel": "x profile",
+        "screenReaderLabel": "X Profile",
+        "icon": "ri:twitter-x-fill",
+        "url": "https://x.com/Daniel085370561"
       }
     ],
     "supportLink": {
-      "url": "https://ko-fi.com/M4M71O34X",
-      "imageSrc": "https://storage.ko-fi.com/cdn/kofi6.png?v=6",
-      "imageAlt": "Buy Me a Coffee at ko-fi.com"
+      "url": "https://buymeacoffee.com/d3v0psdan",
+      "imageSrc": "https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png",
+      "imageAlt": "Buy Me a Coffee at buymeacoffee.com"
     },
     "image": {
       "src": "/me.webp",
-      "alt": "memoji of gianmarco"
+      "alt": "photo of Daniel Berg"
     }
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
+    "intro": "Hi, I'm Daniel, a full-stack developer based in Edmonton, Alberta.",
     "toolsIntro": "My primary tools of choice includes:",
     "tools": [
-      "JavaScript",
+      "Laravel",
+      "PHP",
+      "Inertia",
       "React",
-      "Solidjs",
-      "Astro",
-      "Svelte",
-      "Nodejs"
+      "TypeScript",
+      "Tailwind"
     ],
-    "passion": "Beyond coding, I'm passionate about design, illustration, animation and 3D modelling and traveling. An unusual hobby of mine is collecting vintage passports, they're interesting pieces of history to me.",
+    "passion": "I design and build made-to-measure applications, each one shaped around the client. I care about the parts no one sees, not just the parts they do.",
     "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project."
   },
   "contacts": {
     "title": "Let's start working together!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "d3v0psdan@gmail.com",
+    "location": "Edmonton, Alberta, Canada",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/daniel-berg-/"
       },
       {
         "label": "Github",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/d3v0psdan"
       },
       {
-        "label": "Discord",
-        "url": "https://discordapp.com/users/163300027618295808"
+        "label": "X",
+        "url": "https://x.com/Daniel085370561"
       }
     ]
   },
@@ -101,7 +102,7 @@
     "title": "Now",
     "helpLabel": "what's that ?",
     "helpUrl": "https://sive.rs/nowff",
-    "status": "Currently working fulltime"
+    "status": "Studying Computer Software Development at NAIT, freelancing at Berg IT Solutions, and working counter sales at Kal Tire"
   },
   "sections": {
     "schoolAssignment": {
